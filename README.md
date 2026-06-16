@@ -130,7 +130,7 @@ Hoje, meu foco é evoluir tanto na **estruturação do Back-end quanto no Front-
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=luannaalcantara&show_icons=true&theme=dark&icon_color=ff7a00&title_color=ff7a00&text_color=ffffff&bg_color=0d1117&locale=pt-br" 
   />
-
+    
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -138,7 +138,7 @@ Hoje, meu foco é evoluir tanto na **estruturação do Back-end quanto no Front-
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=luannaalcantara&theme=dark&icon_color=ff7a00&title_color=ff7a00&text_color=ffffff&bg_color=0d1117&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
----
+
 
 ### 
 
