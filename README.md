@@ -122,3 +122,9 @@ Me chamo Luanna Alcântara, tenho 30 anos e sou de São Paulo - SP. Sou formada 
   />
 
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luannaalcantara/luannaalcantara/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luannaalcantara/luannaalcantara/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/luannaalcantara/luannaalcantara/output/github-contribution-grid-snake.svg">
+</picture>
