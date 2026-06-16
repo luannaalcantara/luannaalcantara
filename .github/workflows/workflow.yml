@@ -1,14 +1,14 @@
 name: Generate Datas
 
 on:
-  schedule: # Roda automaticamente a cada 12 horas
+  schedule: # Roda automaticamente a cada 12 hours
     - cron: "0 */12 * * *"  
   workflow_dispatch: # Permite rodar manualmente a qualquer momento
 
 jobs:
   build:
     name: Jobs to update datas
-    runs-code: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       # Snake Game
       - uses: Platane/snk@v3
