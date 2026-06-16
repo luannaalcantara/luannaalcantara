@@ -100,6 +100,7 @@ Hoje, meu foco é evoluir tanto na **estruturação do Back-end quanto no Front-
 
 <br/>
 <br/>
+
 ---
 
 ### 🐈‍⬛ Onde me encontrar? 
